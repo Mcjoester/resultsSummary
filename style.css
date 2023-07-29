@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: lightgray;
+    background-color: hsl(0, 0%, 100%);
     font-family: 'Hanken Grotesk', sans-serif;
     font-size: 18px;
 }
@@ -20,7 +20,7 @@ body {
     max-width: 666px;
     border-radius: 10px;
     background-color: white;
-    box-shadow: 0 3px 15px rgba(0,0,0,0.2);
+    box-shadow: 3px 3px 35px hsl(221, 100%, 96%);
     display: flex;
     margin: 0 1rem;
 }
